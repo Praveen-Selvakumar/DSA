@@ -3,11 +3,9 @@ import java.util.*;
    
    
 @SuppressWarnings("unchecked")
-class Temp{
+class Pattern5{
  
-	 
-    
-
+ 
   public static void main(String[] args){
 	  
 	     
@@ -17,12 +15,11 @@ class Temp{
 		   * * * *
 		     * * *
 		       * *
-                 *
-		 
+                         *
 		 */
 		            
 	
-	           int i = 0, j =0; 
+	                        int i = 0, j =0; 
 				
 				while(i < 5){
 					while(j < 5){
@@ -38,7 +35,6 @@ class Temp{
 				}
 				 
 			   
-  } 
-   
+  }  
    
 }
