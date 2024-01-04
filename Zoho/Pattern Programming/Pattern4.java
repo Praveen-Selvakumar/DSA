@@ -3,7 +3,7 @@ import java.util.*;
    
    
 @SuppressWarnings("unchecked")
-class Temp{
+class Pattern4{
  
 	 
     
