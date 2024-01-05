@@ -3,22 +3,21 @@ import java.util.*;
    
    
 @SuppressWarnings("unchecked")
-class Temp{
- 
- 
-   
-	 
-    
-
+class Temp{ 
+	  
   public static void main(String[] args){
 	 
 	   
-	   /*
-	       
-	   
-	   */
-	   
-	   
+ /*
+
+      *
+    *   *
+   *   *   *
+  *   *   *   *
+ *   *   *   *   *
+ 
+*/ 
+	  
 	   int i = 5 , j = 0;
 	   
 	   
@@ -36,11 +35,6 @@ class Temp{
 		    System.out.println();
  	   }
 	  
-	       
-		 
-				 
-			   
+	   		   
   } 
-   
-   
 }
